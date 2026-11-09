@@ -1,32 +1,60 @@
-# Olá, turma!
-## Eu sou o Matheus Pereira
-- 😎 Tenho 26 anos
-- ⚙ Formado em engenharia de produção
-- 🔍 Extremamente curioso 
-- 💖 Apaixonado por tecnologia 
+<div align="center">
 
+# Olá! Eu sou o Matheus Pereira
 
+### Engenheiro de Produção · Curioso · Apaixonado por tecnologia
+
+[![GitHub](https://img.shields.io/badge/GitHub-MatheusP97-181717?style=for-the-badge&logo=github)](https://github.com/MatheusP97)
+[![Profile views](https://komarev.com/ghpvc/?username=MatheusP97&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/MatheusP97)
+
+</div>
+
+---
+
+## Sobre mim
+
+- 🎓 Formado em **Engenharia de Produção**
+- 🔍 Extremamente curioso e sempre aprendendo
+- 💻 Explorando o mundo da tecnologia
+- 🚀 Em busca de novos desafios
+
+---
+
+## Tecnologias
 
 <div align="center">
-  <a href="https://github.com/Metheus97">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Metheus97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metheus97&langs_count=16&theme=midnight-purple"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theus-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusP97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusP97&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top languages" />
+
 </div>
-  
-  ## 
-### Seja Bem vindo a minha aventura no mundo tecnológico🚀💻
-    
-<div style="display: inline_block"><br>
 
-  ![Snake animation](https://github.com/Metheus97/Metheus97/blob/output/github-contribution-grid-snake.svg)
-  
+---
+
+## Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/MatheusP97/Metheus97/output/github-contribution-grid-snake.svg)
+
 </div>
-  
 
+---
 
+<div align="center">
 
-  
+⭐ Obrigado pela visita — vamos conectar!
+
+</div>
