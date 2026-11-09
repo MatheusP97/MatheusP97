@@ -36,8 +36,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusP97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusP97&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=MatheusP97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusP97&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -47,7 +47,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/MatheusP97/Metheus97/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusP97/MatheusP97/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusP97/MatheusP97/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusP97/MatheusP97/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
